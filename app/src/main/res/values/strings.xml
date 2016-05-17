@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidCRUD</string>
+    <string name="action_settings">Settings</string>
+
+    <!--ANDROID CRUD-->
+    <string name="btnAgregar">Agregar Usuario</string>
+    <string name="btnListar">Listar Usuario</string>
+    <string name="btnBD">Crea BD</string>
+    <string name="title_activity_agregar">AgregarActivity</string>
+
+    <!--AGREGAR USUARIO-->
+    <string name="textAgregar">INGRESE LOS DATOS DEL USUARIO A REGISTRAR</string>
+    <string name="textUser">Nombre de Usuario</string>
+    <string name="textEmail">Correo Electrónico</string>
+    <string name="textPhone">Teléfono</string>
+    <string name="btnSave">Grabar Usuario</string>
+    <string name="btnRegresar">Regresar a Principal</string>
+
+    <!--ELIMINAR USUARIO POR ID-->
+    <string name="textDelete">Ingrese el ID para eliminar</string>
+    <string name="editDelete">Eliminar</string>
+    <string name="btnDelete">Eliminar</string>
+</resources>
